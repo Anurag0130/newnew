@@ -14,6 +14,19 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-testNewProject-testNewProjectTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-testNewProject-testNewProjectTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		92680C5CEE164DF08E6F4905 /* SofiaPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4EAF37F1FF574CBC8517E117 /* SofiaPro-Bold.otf */; };
+		BCCB5E2C1CD04BCABEF709D6 /* SofiaPro-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7E0187BA0AC946C485C58306 /* SofiaPro-ExtraLight.otf */; };
+		337E24F472B14D4096A93DCF /* SofiaPro-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 43D10D74109741FF817543CE /* SofiaPro-Light.otf */; };
+		333F2F3F4DAD4D2CA924AE65 /* SofiaPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 071B4BE9517D4D60BA01CBF6 /* SofiaPro-Medium.otf */; };
+		A9D1865056B3457A8D0744FD /* SofiaPro-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 58C0DCB8C72B4F699C3E1294 /* SofiaPro-SemiBold.otf */; };
+		0DAF6F5A204940E9ADBBA4D6 /* SofiaPro-UltraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = CFAFBC760BD64102BF11A530 /* SofiaPro-UltraLight.otf */; };
+		90DCD203CC1F4BC588DD0CF5 /* SofiaPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 92225F7A42CE4D76B6C8C6CC /* SofiaPro.otf */; };
+		E6377A07CF804C2A94BFEDE5 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2AFAC77B592E4F40BE17B6CC /* Nunito-Bold.ttf */; };
+		B76B8C690EB74DCEB21D75DC /* Nunito-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A704FA1546904C8C88D17F0C /* Nunito-ExtraBold.ttf */; };
+		8128C2F1A0B84F1C985812C8 /* Nunito-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3AFD4BE85F042FEB49541DC /* Nunito-ExtraLight.ttf */; };
+		DCF85ED3BA2D4CD183CE62DD /* Nunito-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 157C33A342FC426393609731 /* Nunito-Light.ttf */; };
+		A3924B5FAEFC4EC58DEEE475 /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43D12AC575D8402C83C0F264 /* Nunito-Regular.ttf */; };
+		6D583B85255C4CF198530486 /* Nunito-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA269D8289D94559943A8076 /* Nunito-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +58,19 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = testNewProject/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-testNewProject-testNewProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testNewProject-testNewProjectTests.release.xcconfig"; path = "Target Support Files/Pods-testNewProject-testNewProjectTests/Pods-testNewProject-testNewProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		4EAF37F1FF574CBC8517E117 /* SofiaPro-Bold.otf */ = {isa = PBXFileReference; name = "SofiaPro-Bold.otf"; path = "../src/Assets/Fonts/SofiaPro-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7E0187BA0AC946C485C58306 /* SofiaPro-ExtraLight.otf */ = {isa = PBXFileReference; name = "SofiaPro-ExtraLight.otf"; path = "../src/Assets/Fonts/SofiaPro-ExtraLight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		43D10D74109741FF817543CE /* SofiaPro-Light.otf */ = {isa = PBXFileReference; name = "SofiaPro-Light.otf"; path = "../src/Assets/Fonts/SofiaPro-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		071B4BE9517D4D60BA01CBF6 /* SofiaPro-Medium.otf */ = {isa = PBXFileReference; name = "SofiaPro-Medium.otf"; path = "../src/Assets/Fonts/SofiaPro-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		58C0DCB8C72B4F699C3E1294 /* SofiaPro-SemiBold.otf */ = {isa = PBXFileReference; name = "SofiaPro-SemiBold.otf"; path = "../src/Assets/Fonts/SofiaPro-SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CFAFBC760BD64102BF11A530 /* SofiaPro-UltraLight.otf */ = {isa = PBXFileReference; name = "SofiaPro-UltraLight.otf"; path = "../src/Assets/Fonts/SofiaPro-UltraLight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		92225F7A42CE4D76B6C8C6CC /* SofiaPro.otf */ = {isa = PBXFileReference; name = "SofiaPro.otf"; path = "../src/Assets/Fonts/SofiaPro.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2AFAC77B592E4F40BE17B6CC /* Nunito-Bold.ttf */ = {isa = PBXFileReference; name = "Nunito-Bold.ttf"; path = "../src/Assets/Fonts/Nunito-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A704FA1546904C8C88D17F0C /* Nunito-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Nunito-ExtraBold.ttf"; path = "../src/Assets/Fonts/Nunito-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A3AFD4BE85F042FEB49541DC /* Nunito-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Nunito-ExtraLight.ttf"; path = "../src/Assets/Fonts/Nunito-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		157C33A342FC426393609731 /* Nunito-Light.ttf */ = {isa = PBXFileReference; name = "Nunito-Light.ttf"; path = "../src/Assets/Fonts/Nunito-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		43D12AC575D8402C83C0F264 /* Nunito-Regular.ttf */ = {isa = PBXFileReference; name = "Nunito-Regular.ttf"; path = "../src/Assets/Fonts/Nunito-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA269D8289D94559943A8076 /* Nunito-SemiBold.ttf */ = {isa = PBXFileReference; name = "Nunito-SemiBold.ttf"; path = "../src/Assets/Fonts/Nunito-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +150,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				D562195B05E147AEABBAA4F0 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +176,27 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		D562195B05E147AEABBAA4F0 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				4EAF37F1FF574CBC8517E117 /* SofiaPro-Bold.otf */,
+				7E0187BA0AC946C485C58306 /* SofiaPro-ExtraLight.otf */,
+				43D10D74109741FF817543CE /* SofiaPro-Light.otf */,
+				071B4BE9517D4D60BA01CBF6 /* SofiaPro-Medium.otf */,
+				58C0DCB8C72B4F699C3E1294 /* SofiaPro-SemiBold.otf */,
+				CFAFBC760BD64102BF11A530 /* SofiaPro-UltraLight.otf */,
+				92225F7A42CE4D76B6C8C6CC /* SofiaPro.otf */,
+				2AFAC77B592E4F40BE17B6CC /* Nunito-Bold.ttf */,
+				A704FA1546904C8C88D17F0C /* Nunito-ExtraBold.ttf */,
+				A3AFD4BE85F042FEB49541DC /* Nunito-ExtraLight.ttf */,
+				157C33A342FC426393609731 /* Nunito-Light.ttf */,
+				43D12AC575D8402C83C0F264 /* Nunito-Regular.ttf */,
+				EA269D8289D94559943A8076 /* Nunito-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +293,19 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				92680C5CEE164DF08E6F4905 /* SofiaPro-Bold.otf in Resources */,
+				BCCB5E2C1CD04BCABEF709D6 /* SofiaPro-ExtraLight.otf in Resources */,
+				337E24F472B14D4096A93DCF /* SofiaPro-Light.otf in Resources */,
+				333F2F3F4DAD4D2CA924AE65 /* SofiaPro-Medium.otf in Resources */,
+				A9D1865056B3457A8D0744FD /* SofiaPro-SemiBold.otf in Resources */,
+				0DAF6F5A204940E9ADBBA4D6 /* SofiaPro-UltraLight.otf in Resources */,
+				90DCD203CC1F4BC588DD0CF5 /* SofiaPro.otf in Resources */,
+				E6377A07CF804C2A94BFEDE5 /* Nunito-Bold.ttf in Resources */,
+				B76B8C690EB74DCEB21D75DC /* Nunito-ExtraBold.ttf in Resources */,
+				8128C2F1A0B84F1C985812C8 /* Nunito-ExtraLight.ttf in Resources */,
+				DCF85ED3BA2D4CD183CE62DD /* Nunito-Light.ttf in Resources */,
+				A3924B5FAEFC4EC58DEEE475 /* Nunito-Regular.ttf in Resources */,
+				6D583B85255C4CF198530486 /* Nunito-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/Fonts/Nunito-Bold.ttf",
+      "sha1": "231df28194a466da9e8ad72532164f50ad5f8750"
+    },
+    {
+      "path": "src/Assets/Fonts/Nunito-ExtraBold.ttf",
+      "sha1": "68561c75ac751b3817285043aef9d2a1cd240f26"
+    },
+    {
+      "path": "src/Assets/Fonts/Nunito-ExtraLight.ttf",
+      "sha1": "96ad0ae5bf729625fc73f9ac19a23171310f97c8"
+    },
+    {
+      "path": "src/Assets/Fonts/Nunito-Light.ttf",
+      "sha1": "900d95ad1ebc89f6aef490a92680cf8b56193b6b"
+    },
+    {
+      "path": "src/Assets/Fonts/Nunito-Regular.ttf",
+      "sha1": "07822103331d2ebc7756a0746d8f34a7210a68ed"
+    },
+    {
+      "path": "src/Assets/Fonts/Nunito-SemiBold.ttf",
+      "sha1": "91ab95e4bfedccb234e05305eeb2de76e5f5f66a"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro-Bold.otf",
+      "sha1": "3e77b75a32477f1f3f1121b2bbcb5128c017a92f"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro-ExtraLight.otf",
+      "sha1": "e6f648f07b02c82b3eda00058ee19e74ff8868b5"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro-Light.otf",
+      "sha1": "844c27a9a4ed2defb0470b20351f8e89602d1b2f"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro-Medium.otf",
+      "sha1": "031fbc487fedfb1d112f5ee21d74dd5c91b8c240"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro-SemiBold.otf",
+      "sha1": "cc5717c99183d0009be73de5f938680aea962c7f"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro-UltraLight.otf",
+      "sha1": "f87854d06dc363d591081bc039e7b57fd96ec4eb"
+    },
+    {
+      "path": "src/Assets/Fonts/SofiaPro.otf",
+      "sha1": "a316b3beca0376331f497c9c44a33224512c5fe9"
+    }
+  ]
+}
